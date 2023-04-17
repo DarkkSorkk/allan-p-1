@@ -91,7 +91,7 @@ header .profile-avatar {
   background-color: transparent;
 }
 .profile-avatar {
-  width: 196px;
-  height: 196px;
+  width: 96px;
+  height: 96px;
   object-fit: cover;
 }
